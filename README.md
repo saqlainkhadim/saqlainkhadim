@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saqlain khadim</h1>
-<h3 align="center">A Full stack PHP Laravel developer from Pakistan</h3>
-<h3 align="left">MY Website Portfolio 
-<a href="https://saqlainkhadim.github.io/portfolio">https://saqlainkhadim.github.io/portfolio </a> 
-</h3>
+<h3 align="center"> I'm Full stack PHP Software Developer from Pakistan</h3>
 
 <br>
 <h3 align="left">Connect with me:</h3>
