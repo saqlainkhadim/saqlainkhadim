@@ -24,7 +24,17 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack PHP Engineer. Laravel API development Expert. Logic building and Data structuring and Architect building.  
+I’m a full-stack PHP Engineer with 2 Years of Experience.
+
+Field of Expertise:
+
+-- Full Stack Applications Development
+
+-- Laravel Rest API development and Integration Expert
+
+-- Logic building and Data structuring and Architect building
+
+
   
 
 <br/>  
